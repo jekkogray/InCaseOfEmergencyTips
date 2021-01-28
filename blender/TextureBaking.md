@@ -53,7 +53,7 @@ January 28, 2021
 
 1. Create an `image_texture` node.
     - Name it `baked_texture_<bake_type>_<object_name>`
-    -<i> Keep this selected, but do not connect this node. <b>!!!</b> </i>
+    - <i> Keep this selected, but do not connect this node. <b>!!!</b> </i>
 
 1. Select the object you want to bake, press `Tab`
 1. Go to `Object Data Properties > UV Maps`.
