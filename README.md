@@ -1,2 +1,2 @@
-# InCaseOfEmergency
-Blender Tips, Scripts, and any tips I learn that may be helpful. 
+# In Case of Emergency Tips
+Blender Tips, Scripts, and any other tips I learned that may be helpful. 
