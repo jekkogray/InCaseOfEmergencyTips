@@ -25,6 +25,13 @@ January 28, 2021
 
 
 #### Baking
+<blockquote>
+<b>Things to Check Before Baking</b>
+
+- Make sure <b>baked_texture_<bake_type>_<object_name></b> node is selected !!!
+- Make sure <b>smart_uv</b> is selected
+- Change render view to cycles.
+</blockquote>
 
 1. Go to the `Render Tab` and change the `Render Engine` to `Cycles`.
     1. Adjust the settings accordingly, Click `Bake`
