@@ -6,7 +6,6 @@ January 28, 2021
 ## About
 <p>Baking textures can be pretty intimidating, but these steps will make the process so much easier. </p>
 
----
 
 ## Baking without Project Mapping
 #### Setting up
@@ -36,7 +35,6 @@ January 28, 2021
 
 1. Select the `baked_texture_<bake_type>_<object_name>` node and connect it to an `Emission` node or connect it to the `Base Color` of the `PrincipledBSDF` node.
 
----
 
 ## Baking with Projection Mapping
 #### Setting up
